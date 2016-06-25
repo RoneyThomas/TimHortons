@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tim Hortons</string>
+    <string name="address">246 Bloor St W,\nToronto, ON M5S 1V4\n(416) 924-8188</string>
+    <string name="description"><b>Our Always Fresh Coffee, hot beverages, cold beverages and many quick meal options will hit the spot any time of day.</b></string>
+</resources>
